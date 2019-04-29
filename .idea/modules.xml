@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calc.iml" filepath="$PROJECT_DIR$/Calc.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appCalc.iml" filepath="$PROJECT_DIR$/appCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appTento.iml" filepath="$PROJECT_DIR$/appTento.iml" />
     </modules>
   </component>
 </project>
